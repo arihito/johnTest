@@ -6,5 +6,6 @@
 </head>
 <body>
 	<h1>test</h1>
+	<img src="test" />
 </body>
 </html>
